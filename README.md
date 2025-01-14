@@ -8,10 +8,6 @@
 - Syed Muhammad Abbas Shah (B21110006131)
 - Syed Zohaib Ahmed Qadri (B21110006142)
 
-**Group No**
-
-- 12
-
 **Course Code**
 
 - BSCS – 506 (Modelling and Simulation)
@@ -19,10 +15,6 @@
 **Date of Development**
 
 - 26-12-2024
-
-**Submitted To**
-
-- Dr. Shaista Raees
 
 UBIT, University Of Karachi
 
